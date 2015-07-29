@@ -5,4 +5,8 @@
         <attr name="empty_button_text" format="string"/>
         <attr name="empty_loading_text" format="string"/>
     </declare-styleable>
+    <declare-styleable name="toggle">
+        <attr name="toggle_drawable_open" format="reference"/>
+        <attr name="toggle_drawable_close" format="reference"/>
+    </declare-styleable>
 </resources>
