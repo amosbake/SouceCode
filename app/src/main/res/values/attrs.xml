@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="empty_view">
+        <attr name="empty_view_text" format="string"/>
+        <attr name="empty_button_text" format="string"/>
+        <attr name="empty_loading_text" format="string"/>
+    </declare-styleable>
+</resources>
