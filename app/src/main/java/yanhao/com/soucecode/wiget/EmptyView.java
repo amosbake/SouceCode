@@ -1,4 +1,4 @@
-package yanhao.com.soucecode;
+package yanhao.com.soucecode.wiget;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -11,6 +11,8 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import java.lang.reflect.Method;
+
+import yanhao.com.soucecode.R;
 
 /**
  * Author: yanhao(amosbake@gmail.com)

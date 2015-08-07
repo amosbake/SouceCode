@@ -1,4 +1,4 @@
-package yanhao.com.soucecode;
+package yanhao.com.soucecode.wiget;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -11,6 +11,8 @@ import android.view.View;
 import android.view.animation.Interpolator;
 import android.view.animation.LinearInterpolator;
 import android.widget.Scroller;
+
+import yanhao.com.soucecode.R;
 
 /**
  * Author: yanhao(amosbake@gmail.com)
