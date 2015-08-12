@@ -14,7 +14,6 @@ public class ActivityStack {
     private static Stack<Activity> sActivityStack;
     private static final String TAG = "ActivityStack";
     private static final ActivityStack instance = new ActivityStack();
-
     private ActivityStack() {
     }
 
